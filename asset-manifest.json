@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw4-react-phone/static/css/main.864ffed0.css",
+    "main.js": "/hw4-react-phone/static/js/main.b0c3b6c7.js",
+    "index.html": "/hw4-react-phone/index.html",
+    "main.864ffed0.css.map": "/hw4-react-phone/static/css/main.864ffed0.css.map",
+    "main.b0c3b6c7.js.map": "/hw4-react-phone/static/js/main.b0c3b6c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864ffed0.css",
+    "static/js/main.b0c3b6c7.js"
+  ]
+}
